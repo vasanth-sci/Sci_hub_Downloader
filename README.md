@@ -1,0 +1,1 @@
+Download articles using the desktop application. You can search using either the DOI or the article name—if you enter one, it will automatically fetch the corresponding details. You can also set the download location and view the files directly within the app.
